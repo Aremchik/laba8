@@ -1,0 +1,15 @@
+D:\prod\Prilo\Labs\oop-labs-2023-II-lab-8-Aremchik\Laba8\Laba8\obj\Debug\net5.0\Laba8.GeneratedMSBuildEditorConfig.editorconfig
+D:\prod\Prilo\Labs\oop-labs-2023-II-lab-8-Aremchik\Laba8\Laba8\obj\Debug\net5.0\Laba8.AssemblyInfoInputs.cache
+D:\prod\Prilo\Labs\oop-labs-2023-II-lab-8-Aremchik\Laba8\Laba8\obj\Debug\net5.0\Laba8.AssemblyInfo.cs
+D:\prod\Prilo\Labs\oop-labs-2023-II-lab-8-Aremchik\Laba8\Laba8\obj\Debug\net5.0\Laba8.csproj.CoreCompileInputs.cache
+D:\prod\Prilo\Labs\oop-labs-2023-II-lab-8-Aremchik\Laba8\Laba8\bin\Debug\net5.0\Laba8.exe
+D:\prod\Prilo\Labs\oop-labs-2023-II-lab-8-Aremchik\Laba8\Laba8\bin\Debug\net5.0\Laba8.deps.json
+D:\prod\Prilo\Labs\oop-labs-2023-II-lab-8-Aremchik\Laba8\Laba8\bin\Debug\net5.0\Laba8.runtimeconfig.json
+D:\prod\Prilo\Labs\oop-labs-2023-II-lab-8-Aremchik\Laba8\Laba8\bin\Debug\net5.0\Laba8.runtimeconfig.dev.json
+D:\prod\Prilo\Labs\oop-labs-2023-II-lab-8-Aremchik\Laba8\Laba8\bin\Debug\net5.0\Laba8.dll
+D:\prod\Prilo\Labs\oop-labs-2023-II-lab-8-Aremchik\Laba8\Laba8\bin\Debug\net5.0\Laba8.pdb
+D:\prod\Prilo\Labs\oop-labs-2023-II-lab-8-Aremchik\Laba8\Laba8\obj\Debug\net5.0\Laba8.dll
+D:\prod\Prilo\Labs\oop-labs-2023-II-lab-8-Aremchik\Laba8\Laba8\obj\Debug\net5.0\refint\Laba8.dll
+D:\prod\Prilo\Labs\oop-labs-2023-II-lab-8-Aremchik\Laba8\Laba8\obj\Debug\net5.0\Laba8.pdb
+D:\prod\Prilo\Labs\oop-labs-2023-II-lab-8-Aremchik\Laba8\Laba8\obj\Debug\net5.0\Laba8.genruntimeconfig.cache
+D:\prod\Prilo\Labs\oop-labs-2023-II-lab-8-Aremchik\Laba8\Laba8\obj\Debug\net5.0\ref\Laba8.dll
